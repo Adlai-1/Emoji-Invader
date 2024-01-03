@@ -13,6 +13,6 @@ You can also decide to fork it and make changes to it to make it better.
 
 Most likely there are some bugs in it.
 
-Feel free to correct it if you choose to lol.
+Feel free to correct it if you choose to.
 
 ![image](https://user-images.githubusercontent.com/42801341/198902505-ebecfe61-dd8b-49f6-b372-d1b4dcc771c8.png)
